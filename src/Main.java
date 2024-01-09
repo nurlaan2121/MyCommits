@@ -3,5 +3,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Nurlan");
+        Person person = new Person();
+        person.setAge(342);
+        person.setName("fdfsd");
+        System.out.println(person);
+
     }
 }
