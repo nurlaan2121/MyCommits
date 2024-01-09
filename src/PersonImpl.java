@@ -1,6 +1,9 @@
 public class PersonImpl {
     public void addNewPerson() {
-        System.out.println("I can added new person");
+        System.out.println("I carwern added new person");
+        System.out.println("I can added new perso2342n");
+        System.out.println("I can added new person32");
+
     }
 
     public void updatePerson() {
