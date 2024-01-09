@@ -7,6 +7,8 @@ public class Main {
         person.setAge(342);
         person.setName("fdfsd");
         System.out.println(person);
+        PersonImpl person1 = new PersonImpl();
+        person1.addNewPerson();
 
     }
 }
